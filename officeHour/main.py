@@ -20,12 +20,13 @@ class Teacher:
 
     def addStudents(self, student):
         self.students.append(student)
+        # print("student list: ", self.students)
         return self
     
     def printClass(self):
         myClass = []
         for s in self.students:
-            myClass.append(s.studentFirst)
+            myClass.append([s.studentFirst, s.studentLast])
         print(f"{self.firstName}'s {self.className} class, has the following students: \n {myClass}")
         return self
 
