@@ -17,3 +17,8 @@
 - https://medium.com/swlh/the-4-pillars-of-oop-in-python-9daaca4c0d13
 
 - https://dev.to/chase42/intro-to-python-2-the-4-pillars-of-oop-2eao
+
+
+
+
+https://app.peardeck.com/student/twsdnbfcq
